@@ -2,23 +2,24 @@
 1
 
 
-![[quetelesou1 1.jpg]]
+![[quetelesou1 ![quetelesou1]1.jpg]](https://github.com/user-attachments/assets/692f47a1-00da-4f94-b6a6-0744acbdad8d)
+
 
 
 2
 
 
-![[quetelesou2.jpg]]
+![[quetelesou2.jpg]]![quetelesou2](https://github.com/user-attachments/assets/6226e712-8a7c-46d2-980b-73a782e63055)
 
 
 
 3
-![[quetelesou3.jpg]]
+![[quetelesou3.jpg]]![quetelesou3](https://github.com/user-attachments/assets/56cd7c3a-2417-4e31-8c5a-7244ad57a4ab)
 
 
 4
-![[quetelesou4.jpg]]
+![[quetelesou4.jpg]]![quetelesou4](https://github.com/user-attachments/assets/a83f914f-e8b9-406a-a10c-a8f75da72518)
 
 5
 
-![[quetelesou5.png]]
+![[quetelesou5.png]]<img width="544" height="234" alt="quetelesou5" src="https://github.com/user-attachments/assets/7ed9f846-bf5f-485f-bc7e-932135a832e7" />
