@@ -18,8 +18,7 @@
 
 
 4
-![[quetelesou4.jpg]]![quetelesou4](https://github.com/user-attachments/assets/a83f914f-e8b9-406a-a10c-a8f75da72518)
+![[quetelesou4.jpg]]![quetelesou4]5![quetelesou4](https://github.com/user-attachments/assets/649c04f5-d305-4492-8755-6dd0c29221a9)
 
-5
 
 ![[quetelesou5.png]]<img width="544" height="234" alt="quetelesou5" src="https://github.com/user-attachments/assets/7ed9f846-bf5f-485f-bc7e-932135a832e7" />
